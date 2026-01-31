@@ -53,6 +53,7 @@ class CrawlerAvature:
 
         
         logger.info(f'{total_items} of jobs finds - {self.subdomain}')
+        stop = False
         for offset in pages_offset:
             logger.info(f'Fetching subdomain {self.subdomain} - {offset}')
             url_pagina = f'https://{self.subdomain}/careers/SearchJobs/?folderRecordsPerPage={jobs_per_page}&folderOffset={offset}&jobOffset={offset}'
@@ -75,6 +76,10 @@ class CrawlerAvature:
                         )
 
                     links = get_links_jobs(response_page.text)
+                    if not links:
+                        stop = True
+                        break
+
                     for link in links:
                         if self.headers['Host'] != urlparse(link).netloc:
                             self.subdomain = urlparse(link).netloc
@@ -90,6 +95,10 @@ class CrawlerAvature:
                     break
                 except Exception as e:
                     logger.error(f'Failed to fetch page <{url_pagina}>: {e}')
+
+
+            if stop:
+                break
 
         
         return jobs

@@ -5,12 +5,18 @@ import re
 def detect_jobs_per_page_and_total_items(html):
     matche = re.search(r'(?P<item_min>\d+)-(?P<item_max>\d+)\s+of\s+(?P<item_max_total>\d+)', html, flags=re.DOTALL|re.IGNORECASE)
     if not matche:
-        return 0, 0, []
-    
-    jobs_per_page = int(matche.group('item_max')) - int(matche.group('item_min'))
-    jobs_per_page += 1
 
-    total_items = int(matche.group('item_max_total'))
+        matches = re.findall(r'href="[^"]+\/JobDetail\/[^"]+', html, flags=re.DOTALL|re.IGNORECASE)
+        if not matches:
+            return 0, 0, []
+        jobs_per_page = len(matches)
+        total_items = 10_000
+    else:    
+        jobs_per_page = int(matche.group('item_max')) - int(matche.group('item_min'))
+        jobs_per_page += 1
+        total_items = int(matche.group('item_max_total'))
+
+
     pages_offset = [page for page in range(0, total_items, jobs_per_page)]
     
     return jobs_per_page, total_items, pages_offset
@@ -167,9 +173,10 @@ def get_links_jobs(page_html):
 
     links = []
 
-    for header in soup.select("div.article__header__text, .jobResultItem"):
+    for header in soup.select("div.article__header__text, .jobResultItem, h3.article__header__text__title"):
         a = header.find("a", href=True)
         if a:
-            links.append(a["href"])
+            if a['href'].startswith('https://'):
+                links.append(a["href"])
 
     return links
