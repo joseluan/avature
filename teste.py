@@ -1,0 +1,7 @@
+from pypandoc import convert_text
+
+readme_content = "# Avature Job Scraper (with TOR)\n\nA crawler to collect job listings from **Avature ATS** based portals, using **TOR (SOCKS5)** for anonymization and IP rotation.\n\n## Features\n- Automatically detects total jobs and pagination\n- Extracts title, description, metadata and application link\n- Supports multiple subdomains\n- Parallel execution\n- TOR IP rotation\n\n## Project Structure\n```\n.\n├── main.py\n├── avature.py\n├── utils.py\n├── tor_proxy.py\n├── subdomains_valids.json\n├── subdomain_jobs/\n└── requirements.txt\n```\n\n## Installation\n```bash\npip install -r requirements.txt\n```\n\n## Dependencies\nbeautifulsoup4  \ncurl-cffi  \ncertifi  \nrequests  \nstem  \nPySocks\n\n## Run TOR\n```bash\npython tor_proxy.py\n```\n\n## Run the crawler\n```bash\npython main.py\n```\n\n## Output\nFor each subdomain, a JSON file will be generated inside `subdomain_jobs/` containing all extracted jobs.\n\n## Legal Notice\nThis project is intended for educational and research purposes only. You are responsible for complying with the terms of service of the scraped websites and local laws.\n"
+
+output_path = "/mnt/data/README_EN.md"
+convert_text(readme_content, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
+output_path

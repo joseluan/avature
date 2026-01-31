@@ -1,0 +1,3722 @@
+{
+    "scan_info": {
+        "id": 40799910,
+        "output_summary": {
+            "text": "Found 922 subdomains"
+        },
+        "start_time": "2026-01-30 00:53:31 UTC-03",
+        "end_time": "2026-01-30 00:59:00 UTC-03",
+        "duration": 329,
+        "progress": 100,
+        "scan_status": "Finished"
+    },
+    "target_name": "avature.net",
+    "target_description": "",
+    "target_type": "hostname",
+    "results": [
+        {
+            "test_description": "Starting Subdomain Scanner...",
+            "test_id": 0,
+            "tests": [],
+            "test_finished": true,
+            "vuln_id": "NONVULN-00-0000000",
+            "screenshots": null,
+            "confirmed": false,
+            "raw_output": "",
+            "output_data": [
+                [
+                    "tesco.avature.net",
+                    "3.11.208.192"
+                ],
+                [
+                    "mobiletrust2.avature.net",
+                    "3.226.213.165"
+                ],
+                [
+                    "delta.avature.net",
+                    "3.235.96.112"
+                ],
+                [
+                    "tademobfrazier.avature.net",
+                    "13.52.135.196"
+                ],
+                [
+                    "primero.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "bupaanz.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "sparknz.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "cba.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "auspost.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "monadelphous.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "pe.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "djcshudson.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "mgl.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "santos.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "fonterrakf.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "regis.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "a2milkkf.avature.net",
+                    "13.236.132.89"
+                ],
+                [
+                    "co.avature.net",
+                    "18.135.212.198"
+                ],
+                [
+                    "jardinematheson.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "sandboxzungfu.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "hkland.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "cyclecarriage.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "zungfu.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "dfiretailgroup.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "jrg.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "eventschina.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "appleasia.avature.net",
+                    "18.141.64.255"
+                ],
+                [
+                    "cs-cdn.avature.net",
+                    "18.154.84.12"
+                ],
+                [
+                    "tescobank.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "justicejobs.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "tescoinsuranceandmoneyservices.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "sandboxtesco.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "skanska.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "laplanduk.avature.net",
+                    "18.168.66.124"
+                ],
+                [
+                    "www.avature.net",
+                    "34.233.41.247"
+                ],
+                [
+                    "website.avature.net",
+                    "34.233.41.247"
+                ],
+                [
+                    "eventregistration.avature.net",
+                    "34.235.228.51"
+                ],
+                [
+                    "koch.avature.net",
+                    "34.238.24.81"
+                ],
+                [
+                    "sandboxcbreglobal.avature.net",
+                    "34.253.20.128"
+                ],
+                [
+                    "lineplus.avature.net",
+                    "35.75.29.108"
+                ],
+                [
+                    "astellasjapan.avature.net",
+                    "35.75.29.108"
+                ],
+                [
+                    "baufest.avature.net",
+                    "35.81.98.117"
+                ],
+                [
+                    "govca.avature.net",
+                    "35.81.98.117"
+                ],
+                [
+                    "itpatagonia.avature.net",
+                    "35.81.98.117"
+                ],
+                [
+                    "partners.avature.net",
+                    "35.155.142.107"
+                ],
+                [
+                    "forms.avature.net",
+                    "44.208.130.5"
+                ],
+                [
+                    "analytics.avature.net",
+                    "44.217.190.98"
+                ],
+                [
+                    "sandboxlululemoninc.avature.net",
+                    "44.221.186.90"
+                ],
+                [
+                    "portalcoloradojobs.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "colorado.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "sandboxbelk.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "mbsrecruiting.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "sandboxnikeglobal.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "games.avature.net",
+                    "44.235.24.11"
+                ],
+                [
+                    "optavise.avature.net",
+                    "50.18.174.61"
+                ],
+                [
+                    "jlr.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "pontoonsolutions.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "amswh.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "pontoonrecruitment.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "adeccorecruiting.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "specsavers.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "kenexa.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "vestasmgs.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "travisperkins.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "robertwaltersoutsourcing.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "kpmgcampus.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "totalenergies.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "laitram.avature.net",
+                    "51.163.163.136"
+                ],
+                [
+                    "baml.avature.net",
+                    "51.163.163.138"
+                ],
+                [
+                    "cisco.avature.net",
+                    "51.163.163.141"
+                ],
+                [
+                    "ciscostageats.avature.net",
+                    "51.163.163.141"
+                ],
+                [
+                    "cisco2.avature.net",
+                    "51.163.163.141"
+                ],
+                [
+                    "portalciscojobs.avature.net",
+                    "51.163.163.141"
+                ],
+                [
+                    "genpact.avature.net",
+                    "51.163.163.151"
+                ],
+                [
+                    "hsbc.avature.net",
+                    "51.163.163.153"
+                ],
+                [
+                    "sandboxpaybackgroup.avature.net",
+                    "51.163.163.156"
+                ],
+                [
+                    "sandboxamspsr.avature.net",
+                    "51.163.163.156"
+                ],
+                [
+                    "uatashfieldhealthcare.avature.net",
+                    "51.163.163.157"
+                ],
+                [
+                    "sandboxhsbc.avature.net",
+                    "51.163.163.158"
+                ],
+                [
+                    "cbreglobal.avature.net",
+                    "51.163.163.159"
+                ],
+                [
+                    "deloittecm.avature.net",
+                    "51.163.163.163"
+                ],
+                [
+                    "vodafone.avature.net",
+                    "51.163.163.163"
+                ],
+                [
+                    "americangreetings.avature.net",
+                    "51.163.163.163"
+                ],
+                [
+                    "virginatlantic.avature.net",
+                    "51.163.163.163"
+                ],
+                [
+                    "enjoy.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "pomerleau.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "ipotentials.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "kpmgireland.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "amspsr.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "barclays.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "jakala.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "philips.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "cicor.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "henkel.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "pd.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "tmf.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "kpmg.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "executivesurf.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "appleeu.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "hyphen.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "resourcebank.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "transcom.avature.net",
+                    "51.163.163.164"
+                ],
+                [
+                    "sandboxashfieldhealthcare.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "deloittece.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "nuffield.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "platinion.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "amsmedtronic.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "kellyinternalta.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "mt.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "arupwhg.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "lindner.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "berenberg.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "bain.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "mclaren.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "innocent.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "rohde-schwarz.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "kienbaum.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "rohdeschwarz.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "skoda.avature.net",
+                    "51.163.163.168"
+                ],
+                [
+                    "kellyrpo.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "dtccpontoon.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "manpowergroup.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "jll.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "bravura.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "novartisglobal.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "manpowergrouppe.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "dhlconsulting.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "enbw.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "baloise.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "manpowerinternal.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "astellas.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "bp.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "hcr.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "wickes.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "microsoftacademypontoon.avature.net",
+                    "51.163.163.169"
+                ],
+                [
+                    "cchbc.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "frequentis.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "amsbae.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "deloitteuk.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "rstsb.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "shell.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "finance.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "abbgb.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "tennet.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "eyglobal.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "deloitte.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "fmlogistic.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "kantar.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "deloittebe.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "stagingikea.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "enel.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "deloitteglobal.avature.net",
+                    "51.163.163.173"
+                ],
+                [
+                    "ikea.avature.net",
+                    "51.163.163.174"
+                ],
+                [
+                    "demoaudi2.avature.net",
+                    "52.9.22.109"
+                ],
+                [
+                    "tkdemoger.avature.net",
+                    "52.9.22.109"
+                ],
+                [
+                    "demooebb1.avature.net",
+                    "52.9.22.109"
+                ],
+                [
+                    "demorossmann.avature.net",
+                    "52.9.22.109"
+                ],
+                [
+                    "crmdacheng.avature.net",
+                    "52.9.22.109"
+                ],
+                [
+                    "voutiquecknittlelias2.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquepgameson2.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquesliebelt3.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueaballinger.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquebfrazier.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueehartwyk.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueabender.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquecgaderer.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueamcelroy2.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueaborbon.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquemgomez2.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquedhaas.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiquesjaworski.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "voutiqueaclancy.avature.net",
+                    "52.9.74.146"
+                ],
+                [
+                    "provato.avature.net",
+                    "52.9.88.194"
+                ],
+                [
+                    "deloittepng.avature.net",
+                    "52.9.88.194"
+                ],
+                [
+                    "crownkemble.avature.net",
+                    "52.9.88.194"
+                ],
+                [
+                    "tapfin.avature.net",
+                    "52.9.88.194"
+                ],
+                [
+                    "wellsfargo.avature.net",
+                    "52.9.88.194"
+                ],
+                [
+                    "recruiting360.avature.net",
+                    "52.45.166.213"
+                ],
+                [
+                    "portalstest.avature.net",
+                    "52.53.115.64"
+                ],
+                [
+                    "smtp-testprod-we3.avature.net",
+                    "52.53.115.64"
+                ],
+                [
+                    "devwoolworths1.avature.net",
+                    "52.62.35.130"
+                ],
+                [
+                    "woolworths.avature.net",
+                    "52.62.35.130"
+                ],
+                [
+                    "uatauspost.avature.net",
+                    "52.64.124.98"
+                ],
+                [
+                    "sandboxauspost.avature.net",
+                    "52.64.124.98"
+                ],
+                [
+                    "sandboxsantos.avature.net",
+                    "52.64.124.98"
+                ],
+                [
+                    "ascareers.avature.net",
+                    "54.68.9.82"
+                ],
+                [
+                    "encompasshealth.avature.net",
+                    "54.68.9.82"
+                ],
+                [
+                    "onpointhrsolutions.avature.net",
+                    "54.68.9.82"
+                ],
+                [
+                    "amazon.avature.net",
+                    "54.68.9.82"
+                ],
+                [
+                    "fortress.avature.net",
+                    "54.68.9.82"
+                ],
+                [
+                    "qatarairways.avature.net",
+                    "54.72.22.153"
+                ],
+                [
+                    "providence.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "virtualoffice.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "psdconnect.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "genesys.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "w6group.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "psdrecruit.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "arcbest.avature.net",
+                    "54.151.3.229"
+                ],
+                [
+                    "mikloswiki.avature.net",
+                    "54.166.2.36"
+                ],
+                [
+                    "bankerslife.avature.net",
+                    "54.176.22.91"
+                ],
+                [
+                    "demonavalinstitute.avature.net",
+                    "54.177.14.192"
+                ],
+                [
+                    "demouniversityofiowa.avature.net",
+                    "54.177.14.192"
+                ],
+                [
+                    "demomdanderson.avature.net",
+                    "54.177.14.192"
+                ],
+                [
+                    "voutiquededhaas2.avature.net",
+                    "54.177.14.192"
+                ],
+                [
+                    "demooebbrecruiting.avature.net",
+                    "54.177.14.192"
+                ],
+                [
+                    "certvoutiqueamteam6.avature.net",
+                    "54.219.78.45"
+                ],
+                [
+                    "demovoutiqueamteam6.avature.net",
+                    "54.219.78.45"
+                ],
+                [
+                    "certvoutiqueamteam1.avature.net",
+                    "54.219.78.45"
+                ],
+                [
+                    "certvoutiqueamteam3.avature.net",
+                    "54.219.78.45"
+                ],
+                [
+                    "apple.avature.net",
+                    "74.217.56.154"
+                ],
+                [
+                    "applecorp.avature.net",
+                    "74.217.56.154"
+                ],
+                [
+                    "joinapple.avature.net",
+                    "74.217.56.154"
+                ],
+                [
+                    "jarvis.avature.net",
+                    "74.217.56.154"
+                ],
+                [
+                    "sandboxbac.avature.net",
+                    "74.217.56.155"
+                ],
+                [
+                    "bac.avature.net",
+                    "74.217.56.155"
+                ],
+                [
+                    "tql.avature.net",
+                    "74.217.56.167"
+                ],
+                [
+                    "ea.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "sandboxea.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "bmcrecruit.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "echostar.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "manpowergroupco.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "mantech.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "andersen.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "generalatomics.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "traderjoes.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "sandia.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "metlife.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "maximus.avature.net",
+                    "74.217.56.173"
+                ],
+                [
+                    "sandbox3uskpmg.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "uskpmg.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "nva.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "deshawresearch.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "ralphlauren.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "blizzard.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "generacta.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "dell2.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "gsowstalentmatching.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "lawson.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "deltaflightattendants.avature.net",
+                    "74.217.56.201"
+                ],
+                [
+                    "sales.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "implementation.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "documents.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "customerservice.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "careers.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "support.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "developers.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "teg.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "recruiting.avature.net",
+                    "74.217.56.216"
+                ],
+                [
+                    "onecall.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "ochsner.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "walmart.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "linkedin.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "jackhenry.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "pepsicoglobal.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "visa.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "dukeenergy.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "carlyle.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "fpmgs.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "synopsys.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "pepsicoglobalpontoon.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "libertymutual1.avature.net",
+                    "74.217.56.218"
+                ],
+                [
+                    "xerox.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "sodexo.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "ino.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "vertexinc.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "target.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "kronos.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "sandboxino1.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "forvis.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "ukg.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "situsamc.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "advocateaurorahealth.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "globalcxaccenture.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "bellflight.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "sandboxglobalcxaccenture.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "twosigma.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "progressive.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "talentrise.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "belk.avature.net",
+                    "74.217.56.219"
+                ],
+                [
+                    "healthfirst.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "jacobs.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "otis.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "tsmc.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "capitalgroup.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "portalsuskpmgats.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "nestleus.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "radpartners.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "ameren.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "uskpmgats.avature.net",
+                    "74.217.56.220"
+                ],
+                [
+                    "bloomberg.avature.net",
+                    "74.217.56.223"
+                ],
+                [
+                    "iatsintegrationsrouter.avature.net",
+                    "74.217.56.236"
+                ],
+                [
+                    "dbgrouptest.avature.net",
+                    "95.172.66.138"
+                ],
+                [
+                    "dbgroup.avature.net",
+                    "95.172.66.138"
+                ],
+                [
+                    "mondelezru.avature.net",
+                    "95.172.66.142"
+                ],
+                [
+                    "pmiru.avature.net",
+                    "95.172.66.142"
+                ],
+                [
+                    "qasiemensenergy.avature.net",
+                    "95.172.66.146"
+                ],
+                [
+                    "iatsapp-gu24.avature.net",
+                    "95.172.66.147"
+                ],
+                [
+                    "siemensenergy.avature.net",
+                    "95.172.66.147"
+                ],
+                [
+                    "smtp-iatsapp-gu24.avature.net",
+                    "95.172.66.147"
+                ],
+                [
+                    "workmyway.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "mccannwg.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "ipghealth.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "ecb.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "aesc.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "pontoonpartners.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "infor.avature.net",
+                    "95.172.66.165"
+                ],
+                [
+                    "mercadona.avature.net",
+                    "95.172.66.166"
+                ],
+                [
+                    "emiratesjobs.avature.net",
+                    "95.172.66.208"
+                ],
+                [
+                    "schenker.avature.net",
+                    "95.172.66.215"
+                ],
+                [
+                    "recruitlink.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "takeda.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "coeint.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "kellyds.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "virginmediao2.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "flow.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "vanoord.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "ciusss.avature.net",
+                    "95.172.66.222"
+                ],
+                [
+                    "mobiletrust.avature.net",
+                    "98.95.83.203"
+                ],
+                [
+                    "sandboxloa.avature.net",
+                    "99.80.79.103"
+                ],
+                [
+                    "training.avature.net",
+                    "100.24.169.134"
+                ],
+                [
+                    "lenovo.avature.net",
+                    "100.50.122.194"
+                ],
+                [
+                    "dpdhlgroup.avature.net",
+                    "108.128.107.200"
+                ],
+                [
+                    "loa.avature.net",
+                    "154.59.120.131"
+                ],
+                [
+                    "bcg.avature.net",
+                    "154.59.120.145"
+                ],
+                [
+                    "webmail.avature.net",
+                    "172.17.88.84"
+                ],
+                [
+                    "internal.avature.net",
+                    "172.17.88.147"
+                ],
+                [
+                    "mail.avature.net",
+                    "172.17.88.180"
+                ],
+                [
+                    "smtp.avature.net",
+                    "172.17.88.239"
+                ],
+                [
+                    "aws.avature.net",
+                    "172.22.36.57"
+                ],
+                [
+                    "sandboxtelusinternational.avature.net",
+                    "184.73.208.130"
+                ],
+                [
+                    "voutiqueconcierge.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "voutiquecontent.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "voutiqueinternal.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "voutiqueqa2.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "voutiquegermanyqa.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "voutiquetraining.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "mastereh.avature.net",
+                    "184.169.169.75"
+                ],
+                [
+                    "sftp.avature.net",
+                    "209.137.135.204"
+                ],
+                [
+                    "ftp.avature.net",
+                    "209.137.135.204"
+                ],
+                [
+                    "docs.avature.net",
+                    "209.137.135.217"
+                ],
+                [
+                    "sandboxacn.avature.net",
+                    "209.137.158.132"
+                ],
+                [
+                    "sandboxbnc.avature.net",
+                    "209.137.158.132"
+                ],
+                [
+                    "avanade.avature.net",
+                    "209.137.158.135"
+                ],
+                [
+                    "crl.avature.net",
+                    "209.137.158.135"
+                ],
+                [
+                    "edj.avature.net",
+                    "209.137.158.135"
+                ],
+                [
+                    "epic.avature.net",
+                    "209.137.158.135"
+                ],
+                [
+                    "sandboxlenovo.avature.net",
+                    "209.137.158.135"
+                ],
+                [
+                    "telusinternational.avature.net",
+                    "209.137.158.138"
+                ],
+                [
+                    "sbd.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "premisehealth2.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "lululemoninc.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "ally.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "cfa.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "schneider.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "ocasata.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "westrockta.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "lockheedmartin.avature.net",
+                    "209.137.158.139"
+                ],
+                [
+                    "boozallen.avature.net",
+                    "209.137.158.146"
+                ],
+                [
+                    "sandboxhenrico.avature.net",
+                    "209.137.158.155"
+                ],
+                [
+                    "ibmsandbox1.avature.net",
+                    "209.137.158.155"
+                ],
+                [
+                    "sandboxtraderjoes.avature.net",
+                    "209.137.158.155"
+                ],
+                [
+                    "sandboxhealthfirst.avature.net",
+                    "209.137.158.155"
+                ],
+                [
+                    "sandboxally.avature.net",
+                    "209.137.158.156"
+                ],
+                [
+                    "hersheys.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "mlt.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "nikelatam.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "intercaretherapy.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "uop.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "discovermgs.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "kellogg.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "sandboxinsperity.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "jawood.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "rgp.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "bnc.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "uclahealth.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "wayfair.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "insperity.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "hitachienergy.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "crowdstrike.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "oracle.avature.net",
+                    "209.137.158.201"
+                ],
+                [
+                    "steelcase.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "nikeats.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "sandboxpremium.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "sandboxboozallen.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "boeing.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "acn.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "wcg.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "plantemoran.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "somerset.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "sandboxwcg.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "amerilife.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "sandboxrl.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "bbw.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "honorhealth.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "gpshospitality.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "tgv.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "kp.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "premium.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "dosist.avature.net",
+                    "209.137.158.205"
+                ],
+                [
+                    "deloitteus.avature.net",
+                    "209.137.158.211"
+                ],
+                [
+                    "mckinsey.avature.net",
+                    "209.137.158.216"
+                ],
+                [
+                    "mckinseyuat.avature.net",
+                    "209.137.158.216"
+                ],
+                [
+                    "intuit.avature.net",
+                    "209.137.158.224"
+                ],
+                [
+                    "avanadeta.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "mhcta.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "vccs.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "sas.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "dttl.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "cfafranchise.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "CDCN.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "bradyplus.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "novonordisk.avature.net",
+                    "209.137.158.226"
+                ],
+                [
+                    "smtp4.avature.net",
+                    "209.137.158.247"
+                ],
+                [
+                    "smtp3.avature.net",
+                    "209.137.158.248"
+                ],
+                [
+                    "smtp2.avature.net",
+                    "209.137.158.249"
+                ],
+                [
+                    "smtp1.avature.net",
+                    "209.137.158.250"
+                ],
+                [
+                    "voutiquescompany.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aetna.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquecbrady.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "corningasia.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "baxter.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "iv.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "catalystrecruitment.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquearoberts2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pma.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "autonation.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demogothaer.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demohochtief.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sabmiller.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demounicredit.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nike.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "lowes.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demotp.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demolucidmotors.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "dnb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "johnclements.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "teachforall.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxexpats2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "elea.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ebayclassifieds.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquejplantz.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxaccenture2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "healthsouth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "adeccouk.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ihsmarkit.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ericssonfsopontoon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "uatciti.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquecmcneley2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemchakrabarti.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "goldbelt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demobearingpoint.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquebalberico.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ashmore.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehvrosembam.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "integrations.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquegbotta.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tencent.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cox.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demohagergroup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cvscaremark.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "oriontalent.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demortx.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "macys.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "operationreach.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ngc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "activision.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoinfineonreferrals.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "omnetric.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "curtinuniversity.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "girolaboral.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "marriott.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "citi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "supercell.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemfriedmann.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "novocanada.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "futurestep.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pentest.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "phillips66.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "expedia.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "universalcreative.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abbvie.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "urscorp.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "quilmes.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pimco.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kpmgng.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "talenttrends.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "lbrands.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ashleyfurniture.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "fleetfarm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "jci.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "conocophillips.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "srg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "resilience.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demostepstone.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "innovage.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kpmgess.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "superiorpropane.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aonhewitt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bgi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "mgscomcast.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "chcm2-clientcertificate-qasiemens.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amskcc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxbcguat.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "infiniti.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandbox2genesys.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ohtm2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "entercom.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "whalecom.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehbfrazier.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "thebodyshop.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "usbank.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxmanpowergroupco.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nuvasive.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehppanic.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "enworld.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "conway.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxaccenturece.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "orchard.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.sandboxnuffield-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "symantec.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxbkd.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tmpuk.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aramco.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "virtuosgames.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "novartis.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "intel.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "spx.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amn.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehlkreimer.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "applemaster.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "catlin.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hilton.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "chcm2-clientcertificate-siemens.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amslbg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gartner2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoatlassian.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bupa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoenbw3.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "clariant.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "advancedch.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "esi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "infineon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pierpoint.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "unilever.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "solvay.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bhsf.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hr.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "zelis.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sourcerightsolutions.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquevfiocco.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "restorando.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquecbrady2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tesla.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "biogen.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demosixt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquerbarker.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxexpkonecrm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abbott.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "isis.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "vifor.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "newedge.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "unitedinternet.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "eventspvannucci.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bmo2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "macquarietelecomgroup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cda.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquevpiterman.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "resourcesolutions.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "accenturece.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ford.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "covenant.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueaccountmgmt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "toshibagcs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "williamblair.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sevenstephiring.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxva.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "certvouamemeateam5.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ppg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "dresserrand.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.mobiletrust.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquepmkt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "despegar.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bankersfinancial.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "democoty.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "marksandspencer.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutique.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hubinternational.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "oi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandbox2bhp-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquekhyskell2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "navigant.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nha.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "latamturner.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "deloitteams.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "capitacs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "carson.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquesliebelt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "mmc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ingenico.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demodoordash.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemserrano.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxmmc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "collegephillips66.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "scb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "monster.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abbeurope.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bhp-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "certvouamemeateam3.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehqa3.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "chicos.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquesvillada.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kornferryau.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "democontinental3.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquedappelzoeller2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.citi-sso.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "adidas.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "phr.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "womble.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "blueline7s.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "seagate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pmi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ssmhealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "iaggbs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "condenast.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abinbev.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demodptofstate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueppanic.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "shaw.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "brammer.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "worklight.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aag.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cbre.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxnuffield-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "fimad.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bdo.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "careersatfrieslandcampinainterim.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "citi-sso.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demooranoevents.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demobloomberg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "olympuspontoon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demobis.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxpepsi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "marketing.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rubix.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "apollo.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "teva.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "toffler.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gmibm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bacardi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueamcertification.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "unifirst7s.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "vfcsandbox.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pepsico.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "catalyste.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "asiainspection.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tsymmetry.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aecom.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "colasrail.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "mtb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "democrm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquevchu.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "grantthornton.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "turner.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pontoonjlr.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.chcm2-clientcertificate-qasiemens.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aig.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "citi-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kpmgcrm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "asml.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "path.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rei.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rgf.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tekexperts.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.nuffield-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demouci.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bkd.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "comfortsolutions.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehaborbon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "condenastuk.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoesri.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "flexbase.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquegdenari.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxavanadestaging.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nestleusa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "mondelez.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "apria.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gskearlytalent.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquesliebelt2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "engageandhiredhaas.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxexpunops.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sap.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoikeastrategy.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hubtalent.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "smilebrands.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "accenture.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bmc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "manpower.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "armstrong.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "automationtraining.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "calendar.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoaxade.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "junioradventuresgroup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ascensionhealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "novotus.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquelkreimer.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "eventsgdenari.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "provatohr.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "citrix.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "mha.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "thoughtmachine.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "emc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sevenstep.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquewfaeder.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "arrowinternational.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nee.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gammon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquejritter.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hudsonscaleup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gartner.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "autodesk.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "adidasevents.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "walgreens.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amsrollsroyce.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "prudentialagency.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bjc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "engageandhirefteng.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rsdb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "atttalentnetwork.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "newrelic.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hrblock.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ehvrosembam2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "umb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "epicor.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "king.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "skyuk.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoencompasshealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "careersphilips.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "virtua.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cis.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "vodafonegroup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "democovea.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amsinternal.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nationalresilience.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rsa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demohernanjarab.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.chcm2-clientcertificate-siemens.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kooziegroup.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "diversity.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rti.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "isi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kraftfs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "generallead.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "talentpoint.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demosalesforce.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "papertransport.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demokeybank.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "vfc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoubercrm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxaccenture.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tjx.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "tmpvirgin.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "santanderams.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "danaheru.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "lighting.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "altisource.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxflite.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquecmcneley.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pentestciti.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "events.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gilead.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "thoughtworks.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "appletest.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "teconnectivity.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "uatbhp-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abbcanada.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "basf.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "emiratespontoon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "unisuper.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "abinbevcn.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "flitepm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "westport.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquecbirnzain.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kelly.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "company.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cloudwatt.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "opentextats.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "indcn.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cargill.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "davepartners.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxngc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "aurorahealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.uatbhp-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bhp.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sps.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nuffield-clientcertificate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoemerson.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "willistowerswatson.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "stryker.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "attemea.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "yscouts.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "levy.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "equifax7step.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "testingdelta.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "powertofly.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gruposuessa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "jcpbase.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "serendi.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kpmgcanada.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cch.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquegermanyqa2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hrperformance.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "asurion.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "haysteva.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "webcrowd.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bicgraphic.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "expertresources.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "yoh.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "scoot.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amsra.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sra.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "whataburger.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueaccountmgmt2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "heinekenusamgs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxrossmann.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "bes.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "transunion.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "democredicorpats.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "usturner.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "genomichealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "greentechstaff.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "citiolf-qa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "zep.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "paperexcellence.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "fcaargentina.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demorivian2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "joinus.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gecon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "gategourmet.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "santanderhays.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.mobiletrust2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "slb.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sapient.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "indeed.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sandboxrei.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "honeywellsrs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoaz.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ericssonglobalpontoon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquermanu.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "fiverings.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "huron.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "upmc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueqa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "p66shieldscholars.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoriotgames.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "epicgames.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "adprsg.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "peoplescoutvtep.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kea.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoaccenturecrm.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquevmoreira.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ohtm4.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "icon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pandora.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiqueaccountmgmt1.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cvshealth.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "sonos.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquessassone.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kohls.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquedparisi2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "capitalone.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pnc.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ats2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rbcoats.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "dowless.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoadobe.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "ericssonpontoon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nationwide.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "situs.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquepbirkner2.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "kraftheinz.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "cgpower.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "raytheonenterprise.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "pentestapple.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "dell.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemnissen.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "vtx.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "attusa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "moodys.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "staffing.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "spf.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "informatica.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "feralloy.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hcms.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "creditsuisse.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "virginmedia.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "dyson.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demochickfila.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "majorel.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "regeneron.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "wipro.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "viasat.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "hrpilots.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "amsrsa.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemcanle.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "flite.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoaldisued.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquelhoelker.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "voutiquemcanabate.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "nikemigration.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "redhat.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "wardleonard.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "loreal.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "raytheon.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "demoheineken.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "www.cs-cdn.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "rhrecruiter.avature.net",
+                    "Did not resolve."
+                ],
+                [
+                    "petco.avature.net",
+                    "Did not resolve."
+                ]
+            ],
+            "headers": [
+                "Subdomain",
+                "IP address"
+            ]
+        }
+    ]
+}
